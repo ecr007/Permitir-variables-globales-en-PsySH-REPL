@@ -92,6 +92,6 @@ private function getDefaultPasses()
 
 # Cuarto; llamar el nombre de espacio mas arriba en ese mismo archivo
 
-``
+```
   use Psy\CodeCleaner\Globals;
 ```
